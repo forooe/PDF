@@ -5,7 +5,7 @@ const PDFDocument = require('pdfkit');
 const sizeOf = require('image-size');
 
 // ⚠️ ضع هنا توكن بوتك الجديد من @BotFather
-const bot = new Telegraf('8594167014:AAGvlDzry3ZWtM4MOgIbSIPhDlYRezvJvq0');
+const bot = new Telegraf('8754193792:AAGNEbrQ6GBdc87BLI4LTHzqtJ609sh8WX4');
 
 // ذاكرة مؤقتة لحفظ الصور لكل مستخدم
 const userImages = {};
